@@ -1,5 +1,6 @@
+
 <h1 align="center">Hi 👋, I'm Yahya zaizi</h1>
-<h3 align="center">A passionate frontend developer from Maroc</h3>
+<h3 align="center">A passionate frontend developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yahyazaizi&label=Profile%20views&color=005454&style=flat" alt="yahyazaizi" /> </p>
 
@@ -13,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/yahyaa.zaizi?mibextid=9r9pxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/yahyaa.zaizi?mibextid=9r9pxo" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/yahyaa_zaizi?igshid=bhczbnfhb25qndu3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/yahyaa_zaizi?igshid=bhczbnfhb25qndu3" height="30" width="40" /></a>
+<a href="https://fb.com/yahyaazaizi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yahyaazaizi" height="30" width="40" /></a>
+<a href="https://instagram.com/yahyaa_zaizi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yahyaa_zaizi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,4 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yahyazaizi&show_icons=true&locale=en" alt="yahyazaizi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yahyazaizi&" alt="yahyazaizi" /></p>
+
 
