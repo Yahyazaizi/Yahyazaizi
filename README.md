@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yahyazaizi" alt="yahyazaizi" /></a> </p>
 
-- 👨‍💻 All of my projects are available at python [https://github.com/Yahyazaizi/A-telecom-operator-offers-new-offers-to-be-prepared-within-the-parameters-of-this-period./blob/main/yahya9.py](https://github.com/Yahyazaizi/A-telecom-operator-offers-new-offers-to-be-prepared-within-the-parameters-of-this-period./blob/main/yahya9.py)
+- 👨‍💻 All of my projects are available at python in repositori esexemple: [https://github.com/Yahyazaizi/A-telecom-operator-offers-new-offers-to-be-prepared-within-the-parameters-of-this-period./blob/main/yahya9.py](https://github.com/Yahyazaizi/A-telecom-operator-offers-new-offers-to-be-prepared-within-the-parameters-of-this-period./blob/main/yahya9.py)
 
 - 📫 How to reach me émail **yahyazaizi01@gmail.com**
 
