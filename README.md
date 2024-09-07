@@ -52,12 +52,10 @@
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" /> </a>
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
             src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>
-            <img
-            src="c:\Users\acer\Desktop\yahya\PHP.jpeg"
-            alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/php/default.asp" target="_blank"
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" /></a> <a href="https://www.w3schools.com/php/default.asp" target="_blank"
         rel="noreferrer"></a>
         <img
-            src="c:\Users\acer\Desktop\yahya\JS.png"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/js/default.asp" target="_blank"
         rel="noreferrer"></a>
 </p>
