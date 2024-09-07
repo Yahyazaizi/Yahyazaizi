@@ -50,8 +50,7 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" /> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/mysql/default.asp" target="_blank" rel="noreferrer"> <img
-            src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>
+    <a href="https://www.w3schools.com/mysql/default.asp" target="_blank" rel="noreferrer">  </a>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" /></a> <a href="https://www.w3schools.com/php/default.asp" target="_blank"
         rel="noreferrer"></a>
         <img
